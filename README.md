@@ -3,8 +3,6 @@
 ## 🛠 Мои навыки
 - **Парсинг данных**: BeautifulSoup, Selenium, Requests
 - **Веб-разработка**: HTML, CSS, JavaScript, React
-- **Базы данных**: SQL, PostgreSQL
-- **Инструменты**: Git, Docker, Linux
 
 ## 📊 Лучшие проекты
 
@@ -23,4 +21,4 @@
 - 💻 **GitHub**: [твой-username](https://github.com/твой-username)
 
 ## 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArgentQlx&show_icons=true)
