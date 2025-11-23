@@ -14,11 +14,11 @@
 ### 📈 Парсинг и анализ данных
 - [📚 Первый пробный парсер](https://github.com/username/price-tracker) - Получение данных товара (книг), сохранение изображений и хранение данных в excel таблице
 - [🎓 Парсер специальностей ВУЗа](https://github.com/ArgentQlx/RSATU-parser) - Сбор данных для последующего анализа
-- [🤖 Telegram бот](https://github.com/username/telegram-bot) - Уведомления о данных
+- [💸 Парсинг курса валют](https://github.com/ArgentQlx/Currency_parser) - Получение актуального курса валюты в рос. рублях
 
 ## 📫 Свяжись со мной
 - 💼 **Telegram**: [@gd_4ever](https://t.me/gd_4ever)
-- 📧 **Email**: alexarr@yandex.ru
+- 📧 **Email**: qlexarr@yandex.ru
 - 💻 **GitHub**: [Qlex](https://github.com/ArgentQlx)
 
 ## 📊 Статистика
